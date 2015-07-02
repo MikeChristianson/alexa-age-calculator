@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "CalculateAgeIntent",
+      "slots": [
+        {
+          "name": "Date",
+          "type": "DATE"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
