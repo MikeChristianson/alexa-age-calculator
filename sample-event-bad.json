@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.ae05c636-fcc3-4895-a645-37d46c9adcb2"
+    },
+    "sessionId": "session1235",
+    "attributes": {},
+    "user": {
+      "userId": null
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "request5679",
+    "intent": {
+      "name": "CalculateAgeIntent",
+      "slots": {
+        "Date": {
+          "name": "Date",
+          "value": "bananas"
+        }
+      }
+    }
+  }
+}
