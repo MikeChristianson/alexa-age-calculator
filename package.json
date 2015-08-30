@@ -1,10 +1,11 @@
 {
   "name": "age-calculator",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "An Alexa Skill for calculating age between a given date and now.",
   "author": "Mike Christianson <http://codeaweso.me>",
   "dependencies": {
-    "moment": "^2.10.3"
+    "moment": "^2.10.3",
+    "underscore": "^1.8.3"
   },
   "repository": {
     "type": "git",
@@ -12,5 +13,5 @@
   },
   "bugs": {
     "url": "https://github.com/MikeChristianson/alexa-age-calculator/issues"
-  },
+  }
 }
