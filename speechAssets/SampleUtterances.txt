@@ -1,39 +1,15 @@
-CalculateAgeIntent how long since {last tuesday|Date}
-CalculateAgeIntent how long since {june twelve|Date}
-CalculateAgeIntent how long since {june twelfth|Date}
-CalculateAgeIntent how long since {june twelve twenty fifteen|Date}
-CalculateAgeIntent how long since {june twelve two thousand fifteen|Date}
-CalculateAgeIntent how long since {june twenty fifteen|Date}
-CalculateAgeIntent how long since {june two thousand fifteen|Date}
-CalculateAgeIntent how long has it been since {last tuesday|Date}
-CalculateAgeIntent how long has it been since {june twelve|Date}
-CalculateAgeIntent how long has it been since {june twelfth|Date}
-CalculateAgeIntent how long has it been since {june twelve twenty fifteen|Date}
-CalculateAgeIntent how long has it been since {june twelve two thousand fifteen|Date}
-CalculateAgeIntent how long has it been since {june twenty fifteen|Date}
-CalculateAgeIntent how long has it been since {june two thousand fifteen|Date}
-CalculateAgeIntent how many years since {last tuesday|Date}
-CalculateAgeIntent how many years since {june twelve|Date}
-CalculateAgeIntent how many years since {june twelfth|Date}
-CalculateAgeIntent how many years since {june twelve twenty fifteen|Date}
-CalculateAgeIntent how many years since {june twelve two thousand fifteen|Date}
-CalculateAgeIntent how many years since {june twenty fifteen|Date}
-CalculateAgeIntent how many years since {june two thousand fifteen|Date}
-CalculateAgeIntent how long ago was {last tuesday|Date}
-CalculateAgeIntent how long ago was {june twelve|Date}
-CalculateAgeIntent how long ago was {june twelfth|Date}
-CalculateAgeIntent how long ago was {june twelve twenty fifteen|Date}
-CalculateAgeIntent how long ago was {june twelve two thousand fifteen|Date}
-CalculateAgeIntent how long ago was {june twenty fifteen|Date}
-CalculateAgeIntent how long ago was {june two thousand fifteen|Date}
-CalculateAgeIntent how old is someone born on {last tuesday|Date}
-CalculateAgeIntent how old is someone born on {june twelve|Date}
-CalculateAgeIntent how old is someone born on {june twelfth|Date}
-CalculateAgeIntent how old is someone born on {june twelve twenty fifteen|Date}
-CalculateAgeIntent how old is someone born on {june twelve two thousand fifteen|Date}
-CalculateAgeIntent how old is someone born on {may thirteen nineteen seventy seven|Date}
-CalculateAgeIntent how old is someone born on {june twenty fifteen|Date}
-CalculateAgeIntent how old is someone born on {june two thousand fifteen|Date}
+CalculateAgeIntent how long since {Date}
+CalculateAgeIntent how long has it been since {Date}
+CalculateAgeIntent how long ago was {Date}
+CalculateAgeIntent how old is someone born on {Date}
+CalculateAgeIntent how many years since {Date}
+CalculateAgeIntent how many months since {Date}
+CalculateAgeIntent how many weeks since {Date}
+CalculateAgeIntent how many days since {Date}
+CalculateAgeIntent how many years ago was {Date}
+CalculateAgeIntent how many months ago was {Date}
+CalculateAgeIntent how many weeks ago was {Date}
+CalculateAgeIntent how many days ago was {Date}
 HelpIntent help
 HelpIntent help me
 HelpIntent what can I ask you

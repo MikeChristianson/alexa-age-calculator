@@ -1,6 +1,6 @@
 {
   "name": "age-calculator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An Alexa Skill for calculating age between a given date and now.",
   "author": "Mike Christianson <http://codeaweso.me>",
   "dependencies": {
