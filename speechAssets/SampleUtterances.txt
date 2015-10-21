@@ -1,7 +1,14 @@
-CalculateAgeIntent how long since {Date}
 CalculateAgeIntent how long has it been since {Date}
+CalculateAgeIntent tell me the time since {Date}
+CalculateAgeIntent give me the time since {Date}
+CalculateAgeIntent the time since {Date}
+CalculateAgeIntent how long since {Date}
 CalculateAgeIntent how long ago was {Date}
+CalculateAgeIntent how long ago {Date} was
+CalculateAgeIntent tell me how long ago {Date} was
+CalculateAgeIntent the age of someone born on {Date}
 CalculateAgeIntent how old is someone born on {Date}
+CalculateAgeIntent how old someone born on {Date} is
 CalculateAgeIntent how many years since {Date}
 CalculateAgeIntent how many months since {Date}
 CalculateAgeIntent how many weeks since {Date}
