@@ -3,7 +3,7 @@ An Alexa Skill for calculating age between a given date and now.
 
 ```sh
 npm install
-zip -r alexa-age-calculator.zip .
+zip -9 -r alexa-age-calculator.zip . -x \*.git\* -x \*.idea\* -x \*.gitignore
 ```
 
 - https://console.aws.amazon.com/lambda/home?region=us-east-1#/create
