@@ -10,8 +10,10 @@
       ]
     },
     {
-      "intent": "HelpIntent",
-      "slots": []
+      "intent": "HelpIntent"
+    },
+    {
+      "intent": "StopIntent"
     }
   ]
 }
