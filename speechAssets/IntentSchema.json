@@ -10,10 +10,13 @@
       ]
     },
     {
-      "intent": "HelpIntent"
+      "intent": "AMAZON.HelpIntent"
     },
     {
-      "intent": "StopIntent"
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
     }
   ]
 }

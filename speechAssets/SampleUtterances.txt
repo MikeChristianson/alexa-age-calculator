@@ -17,28 +17,3 @@ CalculateAgeIntent how many years ago was {Date}
 CalculateAgeIntent how many months ago was {Date}
 CalculateAgeIntent how many weeks ago was {Date}
 CalculateAgeIntent how many days ago was {Date}
-HelpIntent help
-HelpIntent help me
-HelpIntent what can I ask you
-HelpIntent get help
-HelpIntent what commands can I ask
-HelpIntent what commands can I say
-HelpIntent what can I do
-HelpIntent what can I use this for
-HelpIntent what questions can I ask
-HelpIntent what can you do
-HelpIntent what do you do
-HelpIntent how do I use you
-HelpIntent how can I use you
-HelpIntent what can you tell me
-StopIntent leave
-StopIntent quit
-StopIntent bye
-StopIntent good bye
-StopIntent stop
-StopIntent cancel
-StopIntent enough
-StopIntent please stop
-StopIntent shut up
-StopIntent go away
-StopIntent I give up
