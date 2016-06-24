@@ -1,27 +1,29 @@
 {
-  "version": "1.0",
   "session": {
-    "new": false,
+    "sessionId": "SessionId.test",
     "application": {
       "applicationId": "amzn1.echo-sdk-ams.app.ae05c636-fcc3-4895-a645-37d46c9adcb2"
     },
-    "sessionId": "session1234",
     "attributes": {},
     "user": {
-      "userId": null
-    }
+      "userId": ""
+    },
+    "new": true
   },
   "request": {
     "type": "IntentRequest",
-    "requestId": "request5678",
+    "requestId": "EdwRequestId.test",
+    "timestamp": "1970-01-01T00:00:00+0000",
     "intent": {
       "name": "CalculateAgeIntent",
       "slots": {
         "Date": {
           "name": "Date",
-          "value": "2015-06-12 09:13"
+          "value": "2017-06-12"
         }
       }
-    }
-  }
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
 }
